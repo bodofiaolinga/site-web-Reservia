@@ -1,0 +1,63 @@
+ Reservia
+
+Reservia est un site web de planification de vacances permettant aux utilisateurs de trouver des hébergements et des activités
+ dans une ville donnée, comme Marseille.  
+C'est un projet front-end visant à intégrer une maquette responsive à l'aide de HTML5 et CSS3 uniquement.
+
+
+
+Objectifs pédagogiques
+
+- Intégrer une maquette en HTML et CSS.
+- Respecter les principes du responsive design (desktop, tablette, mobile).
+- Structurer le code HTML sémantiquement.
+- Utiliser le Flexbox et le CSS Grid pour la mise en page
+- Respecter une charte graphique et une hiérarchie visuelle cohérente.
+
+
+
+ Technologies utilisées
+
+- HTML5
+- CSS3 (Flexbox + Grid)
+- Font Awesome pour les icônes
+- Google Fonts (Raleway)
+- Media Queries pour la version mobile
+
+
+
+ Responsive design
+
+Le site s'adapte automatiquement à toutes les tailles d'écran :
+- Desktop 
+- Mobile 
+
+
+
+Fonctionnalités principales
+
+ Hébergements
+- Liste d'hôtels à Marseille présentés sous forme de cartes (cards)
+- Chaque carte affiche :
+  - Une image de l'établissement
+  - Le nom de l'hôtel
+  - Le prix par nuit
+  - Une évaluation en étoiles
+
+Les plus populaires
+- Section présentant les hébergements les plus réservés
+- Mise en page en colonne (image + texte alignés horizontalement)
+
+ Activités à Marseille
+- 6 cartes présentant différentes activités touristiques
+- Disposition visuelle inspirée de la maquette Reservia officielle
+- Images adaptatives selon la taille de l'écran
+
+ 
+Lancer le projet
+
+Aucune installation nécessaire.  
+1. Télécharge ou clone ce dépôt 
+
+2.Ouvre simplement index.html dans ton navigateur.
+
